@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "consolejs",
+    "target": "ESNext",
+    "forceConsistentCasingInFileNames": true,
+    "target": "XML-Backdoor",
+    "sourceMap": true
+  },
+  "exclude": [
+    "Injection"
+  ]
+}
